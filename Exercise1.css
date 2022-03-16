@@ -2,7 +2,7 @@ body {
 	margin: auto;
 }
 ::selection {
-	background: rgb(25, 139, 23);
+	background: rgb(5, 139, 23);
 	color: white;
 }
 .topbar {
